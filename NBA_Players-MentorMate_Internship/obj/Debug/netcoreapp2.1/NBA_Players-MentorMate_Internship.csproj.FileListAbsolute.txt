@@ -1,0 +1,11 @@
+C:\Visual Studio 2019\Repos\NBA_Players-MentorMate_Internship\NBA_Players-MentorMate_Internship\bin\Debug\netcoreapp2.1\NBA_Players-MentorMate_Internship.deps.json
+C:\Visual Studio 2019\Repos\NBA_Players-MentorMate_Internship\NBA_Players-MentorMate_Internship\bin\Debug\netcoreapp2.1\NBA_Players-MentorMate_Internship.runtimeconfig.json
+C:\Visual Studio 2019\Repos\NBA_Players-MentorMate_Internship\NBA_Players-MentorMate_Internship\bin\Debug\netcoreapp2.1\NBA_Players-MentorMate_Internship.runtimeconfig.dev.json
+C:\Visual Studio 2019\Repos\NBA_Players-MentorMate_Internship\NBA_Players-MentorMate_Internship\bin\Debug\netcoreapp2.1\NBA_Players-MentorMate_Internship.dll
+C:\Visual Studio 2019\Repos\NBA_Players-MentorMate_Internship\NBA_Players-MentorMate_Internship\obj\Debug\netcoreapp2.1\NBA_Players-MentorMate_Internship.csprojAssemblyReference.cache
+C:\Visual Studio 2019\Repos\NBA_Players-MentorMate_Internship\NBA_Players-MentorMate_Internship\obj\Debug\netcoreapp2.1\NBA_Players-MentorMate_Internship.csproj.CoreCompileInputs.cache
+C:\Visual Studio 2019\Repos\NBA_Players-MentorMate_Internship\NBA_Players-MentorMate_Internship\obj\Debug\netcoreapp2.1\NBA_Players-MentorMate_Internship.AssemblyInfoInputs.cache
+C:\Visual Studio 2019\Repos\NBA_Players-MentorMate_Internship\NBA_Players-MentorMate_Internship\obj\Debug\netcoreapp2.1\NBA_Players-MentorMate_Internship.AssemblyInfo.cs
+C:\Visual Studio 2019\Repos\NBA_Players-MentorMate_Internship\NBA_Players-MentorMate_Internship\bin\Debug\netcoreapp2.1\NBA_Players-MentorMate_Internship.pdb
+C:\Visual Studio 2019\Repos\NBA_Players-MentorMate_Internship\NBA_Players-MentorMate_Internship\obj\Debug\netcoreapp2.1\NBA_Players-MentorMate_Internship.dll
+C:\Visual Studio 2019\Repos\NBA_Players-MentorMate_Internship\NBA_Players-MentorMate_Internship\obj\Debug\netcoreapp2.1\NBA_Players-MentorMate_Internship.pdb
